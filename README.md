@@ -8,7 +8,4 @@ ____
 
 Основы записи - инструкция :
 <<<<<<< HEAD
-Hello my test
-=======
-Hello me
->>>>>>> 4ffdec7acfbdd021090a1a93cf1f6816b0e18459
+Hello my test 1
