@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "0000.md",
             "mode": "source"
           }
         }
@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "deed075e76537dc0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "0000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,16 +85,44 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5a4a2051b3323f9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "564d9819b4cfe7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0000.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "0000.md",
     "README.md",
-    "Untitled.md"
+    "Templates/new_note.md",
+    "Templates/daily.md",
+    "Templates/books.md",
+    "Z-core/00 Обучение.md",
+    "Z-core/tut.by.md",
+    "Z-core/Untitled.md",
+    "Untitled.md",
+    "Templates/Untitled.md"
   ]
 }
