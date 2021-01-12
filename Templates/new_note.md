@@ -1,5 +1,5 @@
 Сегодня {{date:DD-MM-YYYY}} {{time::HH:mm}}
-Tags: #
+Tags: #книга 
 ___
 
 ## Идея или мысль
