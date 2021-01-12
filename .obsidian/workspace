@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "695d570c4a9ab45d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b7a776bbc394eab",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0000.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c0a5e304e194603",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf5ea2eaa02d0906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95e804a9db801f06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ef3a8acd0b71c9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "deed075e76537dc0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3279344c8433a3a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "264c9d23ae539d40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f92d203425156b37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0000.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a4a2051b3323f9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "564d9819b4cfe7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0000.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "0000.md",
+    "Z-core/00 Книги.md",
+    "Z-core/00_Обучение.md",
+    "Z-core/00_Книги.md",
+    "README.md",
+    "Templates/new_note.md",
+    "Templates/daily.md",
+    "Templates/books.md",
+    "Z-core/00 Обучение.md",
+    "Z-core/tut.by.md"
+  ]
+}
