@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/new_note.md",
+            "file": "Templates/books.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/new_note.md",
+                "file": "Templates/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/new_note.md"
+                "file": "Templates/books.md"
               }
             }
           }
@@ -115,8 +115,8 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Templates/new_note.md",
     "Templates/books.md",
+    "Templates/new_note.md",
     "Z-core/Untitled 1.md",
     "Z-core/01_web.md",
     "Z-core/00_обучение.md",
