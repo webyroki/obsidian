@@ -6,5 +6,6 @@ modified: 2021-01-12T18:52:41+03:00
 
 ____
 
-Примеры css
-
+ - Инструкция Pinegrow
+ - Grid 
+ - Flexbox
