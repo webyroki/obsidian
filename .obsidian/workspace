@@ -115,14 +115,14 @@
   },
   "lastOpenFiles": [
     "0000.md",
-    "Z-core/00_книги.md",
-    "Z-core/00_обучение.md",
-    "Z-core/01_web.md",
-    "Z-core/Скорочтение.md",
-    "Z-core/Тишина.md",
-    "Daily/12-01-2021.md",
     "README.md",
+    "Z-core/Скорочтение.md",
     "Templates/new_note.md",
-    "Templates/daily.md"
+    "Templates/daily.md",
+    "Templates/books.md",
+    "Templates/blank.md",
+    "Z-core/Тишина.md",
+    "Z-core/00_обучение.md",
+    "Z-core/tut.by.md"
   ]
 }
