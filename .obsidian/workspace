@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Z-core/01_web.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#position",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,13 +117,13 @@
   "lastOpenFiles": [
     "Z-core/01_web.md",
     "0000.md",
+    "Z-core/CSS.md",
     "Z-core/Untitled.md",
     "Z-core/Тишина.md",
     "README.md",
     "Z-core/Скорочтение.md",
     "Templates/new_note.md",
     "Templates/daily.md",
-    "Templates/books.md",
-    "Templates/blank.md"
+    "Templates/books.md"
   ]
 }
