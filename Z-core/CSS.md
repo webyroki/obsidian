@@ -3,4 +3,5 @@
 position:
 - static
 - fixed
-- re
+- reletive
+- 
