@@ -1,3 +1,6 @@
 #css
 
-position 
+position:
+- static
+- fixed
+- re
