@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Z-core/00_психология.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Z-core/00_психология.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Z-core/00_психология.md"
               }
             }
           }
@@ -114,15 +114,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "README.md",
+    "Z-core/00_психология.md",
     "0000.md",
+    "README.md",
     "Z-core/CSS.md",
     "Z-core/01_web.md",
     "Z-core/Untitled.md",
     "Z-core/Тишина.md",
     "Z-core/Скорочтение.md",
     "Templates/new_note.md",
-    "Templates/daily.md",
-    "Templates/books.md"
+    "Templates/daily.md"
   ]
 }
